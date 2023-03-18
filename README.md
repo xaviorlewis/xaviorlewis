@@ -1,4 +1,4 @@
-### Hello, nice to meet you!
+### hi
 
 I'm the founder of [arete.gallery](url) where I develop on social practice art, computational tools for community building and data science for social impact. 
 
